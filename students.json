@@ -1,0 +1,12 @@
+[
+    {
+        "name": "shiv",
+        "age":22,
+        "height":167
+    },
+    {
+        "name":"mishra",
+        "age": 23,
+        "height":170
+    }
+]
